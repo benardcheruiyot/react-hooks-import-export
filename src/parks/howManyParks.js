@@ -1,5 +1,7 @@
-function howManyParks() {
-  console.log("42 parks!");
+import React from "react";
+
+function MesaVerde() {
+  return <h1>Mesa Verde National Park</h1>;
 }
 
-export default howManyParks;
+export default MesaVerde;
